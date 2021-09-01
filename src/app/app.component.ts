@@ -6,5 +6,18 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'fernando';
+  
+ 
+
+
+
+//  increaseOne(){
+//    this.counter += 1;
+//  }
+
+//  decresaseOne(){
+//   this.counter += 1;
+// }
+
+
 }
